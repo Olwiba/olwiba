@@ -1,4 +1,4 @@
-![👋 Hi, my name is Ollie Bannister](https://olwiba.com/images/forrest-cropped.jpg)
+![👋 Hi, my name is Ollie Bannister](https://olwiba.com/images/forrest-cropped--small.jpg)
 
 ![Profile views](https://komarev.com/ghpvc/?username=olwiba&label=Profile%20views&color=0e75b6&style=flat)
 
