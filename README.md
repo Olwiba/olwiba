@@ -19,7 +19,7 @@
 
 **<h3 align="left"><ins>Rapid fire</ins></h3>**
 
-- 💼 I'm currently working on: **Building inhouse products & client work for https://astrosoft.studio/**
+- 💼 I'm currently working on: **Developing proprietary products and delivering client solutions for https://astrosoft.studio/**
 - 🌱 I'm currently learning: **Leveraging LoRAs to deliver unique products to market**
 - 💬 Ask me about: **Happy to chat about anything WebDev!**
 - ⚡ Fun fact: **I once recovered a P1 outage from water park in Laos**
