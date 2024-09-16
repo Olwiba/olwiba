@@ -22,7 +22,7 @@
 - 💼 I'm currently working on: **Building products and delivering client solutions for https://astrosoft.studio/**
 - 🌱 I'm currently learning: **Leveraging LoRAs to deliver unique products to market**
 - 💬 Ask me about: **Happy to chat about anything WebDev!**
-- ⚡ Fun fact: **I once recovered a P1 outage using my phone data from a Laotian jungle**
+- ⚡ Fun fact: **My first program was created on a roamer robot**
 - 📂 Portfolio: **<a href="https://olwiba.com" target="_blank">https://olwiba.com</a>**
 - 📝 Blog: **<a href="https://olwiba.com/posts" target="_blank">https://olwiba.com/posts</a>**
 
