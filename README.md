@@ -15,7 +15,7 @@
 **<h3 align="center">Connect with me:</h3>** 
 <p align="center"><a href="https://twitter.com/olwiba" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="32" style="margin-right: 8px"></a> <a href="mailto:olwiba@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32" style="margin-right: 8px"></a> <a href="https://codepen.io/olwiba" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" height="32" style="margin-right: 8px"></a> <a href="https://dribbble.com/olwiba" target="_blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" height="32" style="margin-right: 8px"></a> <a href="https://www.linkedin.com/in/olwiba" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" style="margin-right: 8px"></a></p>
 
- **<h3 align="left">🚀 Passionate full-stack software engineer and product creative based in London city. I find joy in building things that live on the internet, from sleek user interfaces to robust backend systems.</h3>**
+ **<h3 align="left">🚀 Passionate full-stack software engineer and product creative. I find joy in building things that live on the internet, from sleek user interfaces to robust backend systems.</h3>**
 
 **<h3 align="left"><ins>Rapid fire</ins></h3>**
 
