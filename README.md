@@ -12,7 +12,7 @@
 
 **<h3 align="center">Connect with me:</h3>** 
 <p align="center">
-  <a href="https://twitter.com/olwiba" target="_blank"><img src="https://img.shields.io/badge/Twitter-171717?style=for-the-badge&logo=X&logoColor=white" height="32" style="margin-right: 8px"></a> 
+  <a href="https://twitter.com/olwiba" target="_blank"><img src="https://img.shields.io/badge/X-171717?style=for-the-badge&logo=X&logoColor=white" height="32" style="margin-right: 8px"></a> 
   <a href="mailto:olwiba@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-dc2626?style=for-the-badge&logo=gmail&logoColor=white" height="32" style="margin-right: 8px"></a> 
   <a href="https://codepen.io/olwiba" target="_blank"><img src="https://img.shields.io/badge/Codepen-0f172a?style=for-the-badge&logo=codepen&logoColor=white" height="32" style="margin-right: 8px"></a> 
   <a href="https://dribbble.com/olwiba" target="_blank"><img src="https://img.shields.io/badge/Dribbble-ec4899?style=for-the-badge&logo=dribbble&logoColor=white" height="32" style="margin-right: 8px"></a> 
