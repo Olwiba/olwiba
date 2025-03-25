@@ -9,7 +9,7 @@
     <a href="https://codepen.io/olwiba" target="_blank"><img src="https://img.shields.io/badge/Codepen-0f172a?style=for-the-badge&logo=codepen&logoColor=white" height="28"></a>&nbsp;
     <a href="https://dribbble.com/olwiba" target="_blank"><img src="https://img.shields.io/badge/Dribbble-ec4899?style=for-the-badge&logo=dribbble&logoColor=white" height="28"></a>&nbsp;
     <a href="https://www.linkedin.com/in/olwiba" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0284c7?style=for-the-badge&logo=linkedin&logoColor=white" height="28"></a>&nbsp;
-    <a href="https://bsky.app/profile/olwiba.bsky.social" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0284c7?style=for-the-badge&logo=linkedin&logoColor=white" height="28"></a>
+    <a href="https://bsky.app/profile/olwiba.bsky.social" target="_blank"><img src="https://img.shields.io/badge/-olwiba.bsky.social-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" height="28"></a>
   </p>
 </div>
 
