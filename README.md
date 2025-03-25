@@ -82,7 +82,7 @@
 
 <img alt="Oliwba's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=olwiba&count_private=true&theme=merko&rank_icon=github&show_icons=true&include_all_commits=true&line_height=23" width="100%" />
 <p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com/?user=olwiba&theme=merko&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=205" alt="GitHub streak Card" />
+  <img width="49%" src="https://gh-readme-streak-stats.vercel.app?user=olwiba&theme=merko&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=205" alt="GitHub streak Card" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=olwiba&theme=merko&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
 
